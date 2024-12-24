@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Lab_3_Lists_Stacks_Queues, Configuration: Debug Win32 ------
+1>Lab_3_Lists_Stacks_Queues.cpp
+1>Lab_3_Lists_Stacks_Queues.vcxproj -> C:\Users\Phill\OneDrive\Desktop\Programming For Cool Kids\CSC 2200\Labs\Lab 3\Lab_3_Lists_Stacks_Queues\Debug\Lab_3_Lists_Stacks_Queues.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 6:00 PM and took 01.418 seconds ==========
