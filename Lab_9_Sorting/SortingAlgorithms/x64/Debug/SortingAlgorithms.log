@@ -1,0 +1,7 @@
+﻿  SortingAlgorithms.cpp
+C:\Users\Phill\OneDrive\Desktop\Programming For Cool Kids\CSC 2200\Labs\Lab_9_Sorting\SortingAlgorithms\SortingAlgorithms.cpp(109,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Phill\OneDrive\Desktop\Programming For Cool Kids\CSC 2200\Labs\Lab_9_Sorting\SortingAlgorithms\SortingAlgorithms.cpp(140,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Phill\OneDrive\Desktop\Programming For Cool Kids\CSC 2200\Labs\Lab_9_Sorting\SortingAlgorithms\SortingAlgorithms.cpp(173,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Phill\OneDrive\Desktop\Programming For Cool Kids\CSC 2200\Labs\Lab_9_Sorting\SortingAlgorithms\SortingAlgorithms.cpp(468,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Phill\OneDrive\Desktop\Programming For Cool Kids\CSC 2200\Labs\Lab_9_Sorting\SortingAlgorithms\SortingAlgorithms.cpp(474,44): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  SortingAlgorithms.vcxproj -> C:\Users\Phill\OneDrive\Desktop\Programming For Cool Kids\CSC 2200\Labs\Lab_9_Sorting\SortingAlgorithms\x64\Debug\SortingAlgorithms.exe
