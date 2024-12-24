@@ -1,0 +1,8 @@
+﻿  MaxSeqProblem.cpp
+C:\Users\Phill\OneDrive\Desktop\Programming For Cool Kids\CSC 2200\Labs\Lab 2\Lab_2_MaxSeqProblem\MaxSeqProblem.cpp(40,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Phill\OneDrive\Desktop\Programming For Cool Kids\CSC 2200\Labs\Lab 2\Lab_2_MaxSeqProblem\MaxSeqProblem.cpp(43,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Phill\OneDrive\Desktop\Programming For Cool Kids\CSC 2200\Labs\Lab 2\Lab_2_MaxSeqProblem\MaxSeqProblem.cpp(67,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Phill\OneDrive\Desktop\Programming For Cool Kids\CSC 2200\Labs\Lab 2\Lab_2_MaxSeqProblem\MaxSeqProblem.cpp(71,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Phill\OneDrive\Desktop\Programming For Cool Kids\CSC 2200\Labs\Lab 2\Lab_2_MaxSeqProblem\MaxSeqProblem.cpp(92,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Phill\OneDrive\Desktop\Programming For Cool Kids\CSC 2200\Labs\Lab 2\Lab_2_MaxSeqProblem\MaxSeqProblem.cpp(158,23): warning C4018: '<': signed/unsigned mismatch
+  MaxSeqProblem.vcxproj -> C:\Users\Phill\OneDrive\Desktop\Programming For Cool Kids\CSC 2200\Labs\Lab 2\Lab_2_MaxSeqProblem\Debug\MaxSeqProblem.exe
